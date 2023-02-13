@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="displaySongs.css"?>
+<songList>
+    <song>  
+        <artist>Rihanna</artist>  
+        <title>Diamonds</title>  
+        <genre>Pop</genre> 
+        <yearReleased>2012</yearReleased> 
+    </song>  
+    <song>  
+        <artist>Rihanna</artist> 
+        <title>Love On The Brain</title>  
+        <genre>Alternative/Indie, Pop, Hip-Hop/Rap</genre> 
+        <yearReleased>2016</yearReleased> 
+    </song>  
+    <song>  
+        <artist>Rihanna</artist> 
+        <title>We Found Love</title>  
+        <genre>Electric, Pop</genre> 
+        <yearReleased>2011</yearReleased> 
+    </song>  
+    <song>  
+        <artist>Ne-Yo</artist>  
+        <title>Miss Independent</title>  
+        <genre>R and B/Soul</genre> 
+        <yearReleased>2008</yearReleased>
+    </song> 
+    <song>  
+        <artist>Ne-Yo</artist>  
+        <title>So Sick</title>   
+        <genre>R and B/Soul</genre> 
+        <yearReleased>2006</yearReleased> 
+    </song>   
+    <song>  
+        <artist>Ne-Yo</artist>  
+        <title>Because Of You</title>   
+        <genre>R and B/Soul</genre> 
+        <yearReleased>2007</yearReleased> 
+    </song> 
+    <song>  
+        <artist>Masego</artist>
+        <title>Prone</title> 
+        <genre>R and B</genre> 
+        <yearReleased>2018</yearReleased> 
+    </song> 
+    <song> 
+        <artist>Masego, Don Toliver</artist> 
+        <title>Mystery Lady</title> 
+        <genre>R and B/Soul, Afrobeats</genre> 
+        <yearReleased>2020</yearReleased> 
+    </song> 
+    <song>  
+        <artist>FKJ, Masego</artist> 
+        <title>Tadow</title>
+        <genre>R and B/Soul, Indian Film Pop</genre> 
+        <yearReleased>2012</yearReleased>
+    </song> 
+     <song>  
+        <artist>Masego</artist> 
+        <title>Navajo</title>
+        <genre>Jazz Rap</genre> 
+        <yearReleased>2017</yearReleased>
+    </song>
+</songList>

@@ -1,0 +1,29 @@
+songList { 
+    background-color : rgb(186, 182, 182); 
+    width: 100%;
+}  
+
+song { 
+    font-family:'Courier New', Courier, monospace;
+    display: block;
+}
+
+artist { 
+    color: rgb(0, 73, 0); 
+    font-size: 40px; 
+} 
+
+title { 
+    color: black; 
+    font-size: 30px; 
+} 
+
+genre { 
+    color: black; 
+    font-size: 20px;
+} 
+
+yearReleased { 
+    color: black; 
+    font-size: 20px;
+}
